@@ -1,2 +1,2 @@
 # XOGame
-XO Game
+Play XO 
